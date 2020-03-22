@@ -2,11 +2,9 @@
 // You need Azure NLP Sentiment Analysis endpoint API key and
 // endpoint URL to to get this thing working.
 
-// TODO: Move configurables here for sanity & clarity
-// Currently the configurables reside around line 130...
-
-
 var assessText = (function () {
+    const url = 'enpoint_URL';
+    const subKey = "your_API_key";
     let text;
     let articleNode;
 
@@ -128,8 +126,6 @@ var assessText = (function () {
         }
 
         const request = new XMLHttpRequest();
-        const url = 'enpoint_URL';
-        const subKey = "your_API_key";
         request.open("POST", url);
         request.setRequestHeader("Content-Type", "application/json");
         request.setRequestHeader("Ocp-Apim-Subscription-Key", subKey);
