@@ -1,6 +1,6 @@
 # HackTheCrisis Proof of Concepts
 
-Proof of Concepts for [Hack The Crisis Finland] (https://www.hackthecrisisfinland.com) -hackathon in March of 2020. Our team submission can be viewed at our [Hack The Chrisis Finland Profile page](https://app.hackjunction.com/projects/hack-the-crisis-finland/view/5e753cfc764d2a00438c4498)
+Proof of Concepts for [Hack The Crisis Finland](https://www.hackthecrisisfinland.com) -hackathon in March of 2020. Our team submission can be viewed at our [Hack The Chrisis Finland Profile page](https://app.hackjunction.com/projects/hack-the-crisis-finland/view/5e753cfc764d2a00438c4498)
 
 We made two proof of concepts to make sure that the technology is indeed viable with using today's machine learning and natural language processing techniques. In addition we had a lot of help from Mikko, who is the leading media researcher in Finland.
 
