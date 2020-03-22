@@ -1,0 +1,4 @@
+newscatcher
+torch
+flask
+cachetools
