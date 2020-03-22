@@ -6,7 +6,7 @@ We made two proof of concepts to make sure that the technology is indeed viable 
 
 The [news site frontpage analyser](news-site-frontpage-analysis/) goes through a frontpages of the news sites, collects the headlines presented to the visitor and uses sentiment analysis machine learning model to score the headlines in positive to negative axis. This is just to prove the point. There is many more ML models that can be used to further advance the accuracy and relevance of this scoring, but those were out of scope of the hackathon itself.
 
-The [article analysis](Article%20Analysis%20PoC/) tool is a javascript bookmarklet that you can drag into your broeser's favorites bar and use to analyse articles you're about to read on a news site. Currently the article analyser supports only three news sites: Daily Mail, New York Times and Washington Post. Purpose of this poc was to prove that the article in itself can be analysed and the scoring can help to both, writing better articles with more neutral or positive tone of voice, and making sure that the reader is about to read is not contributing negatively to one's mental state or anxiety.
+The [article analysis](Article%20Analysis%20PoC/) tool is a javascript bookmarklet that you can drag into your browser's favorites bar and use to analyse articles you're about to read on a news site. Currently the article analyser supports only three news sites: Daily Mail, New York Times and Washington Post. Purpose of this poc was to prove that the article in itself can be analysed and the scoring can help to both, writing better articles with more neutral or positive tone of voice, and making sure that the reader is about to read is not contributing negatively to one's mental state or anxiety.
 
 
 # The Team
