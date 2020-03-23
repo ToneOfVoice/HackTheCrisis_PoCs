@@ -19,7 +19,7 @@ The storytellers that cannot be stopped!
 * Kimmo Kemppaala
 * Simo Kekäläinen
 
-## From the Remod Oy
+## From the [Remod Oy](https://remod.fi)
 
 The tech innovators from the future.
 
@@ -28,6 +28,13 @@ The tech innovators from the future.
 * Kari Tuominen
 * Jon Ekberg
 * Antti Jaakkola
+
+## Our awesome mentors
+
+Special thanks to our great advisors and mentors during the hackathon!
+
+* Mikko Kotila, World Federation of Advertisers (WFA); digital marketing pioneer and an advisor to many online media technology companies and decision makers
+* Oguzhan Gencoglu, Head of AI and Co-Founder of [Top Data Science](https://topdatascience.com)
 
 # License
 
