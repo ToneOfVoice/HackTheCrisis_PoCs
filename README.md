@@ -11,7 +11,7 @@ The [article analysis](Article%20Analysis%20PoC/) tool is a javascript bookmarkl
 
 # The Team
 
-## From the Polar Bear Pitching organisation
+## From the [Polar Bear Pitching](https://polarbearpitching.com) organisation
 
 The storytellers that cannot be stopped!
 
